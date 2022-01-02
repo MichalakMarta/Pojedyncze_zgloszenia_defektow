@@ -8,7 +8,7 @@ Zgłoszenia zawierają:
 - priorytet,
 - data wykrycia defektu,
 - środowisko,
-- dane wyjściowe (opcjonalnie),
+- dane wejściowe (opcjonalnie),
 - kroki do reprodukcji,
 - oczekiwany rezultat,
 - otrzymany rezultat,
