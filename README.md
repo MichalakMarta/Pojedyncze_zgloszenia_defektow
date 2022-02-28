@@ -14,4 +14,7 @@ Zgłoszenia zawierają:
 - otrzymany rezultat,
 - załącznik (opcjonalnie).
 
+Poniżej zamieściłam również 5 wybranych zgłoszeń w jednym pliku:
+https://drive.google.com/file/d/1v4HZOU5SyIvD7XQNblJpExrqVVs7PuwW/view?usp=sharing
+
 Życzę miłego przeglądania.
